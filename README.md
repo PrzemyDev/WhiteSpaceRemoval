@@ -9,7 +9,8 @@
  F5 - Pin (App always on top / App can be minimized)  
 
 Green/Red indicator tells if the app is focused or not.  
-![image](https://github.com/PrzemyDev/WhiteSpaceRemoval/assets/101277573/29d6caaf-d233-48f7-8dd4-e25b448d3a55)
+
+![Preview1](https://github.com/PrzemyDev/WhiteSpaceRemoval/assets/101277573/67863773-c560-405d-80ca-38e3390ca758)
 
 
 
