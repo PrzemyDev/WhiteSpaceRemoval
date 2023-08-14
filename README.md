@@ -4,7 +4,7 @@
  This app uses shortcuts:  
  F1 - Remove white spaces from input  
  F2 - Copy to clipboard  
- F3 - Clear both inputs  
+ F3 - Clear input and output  
  F4 - Clear clipboard  
  F5 - Pin (App always on top / App can be minimized)  
 
