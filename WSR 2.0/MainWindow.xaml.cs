@@ -62,6 +62,7 @@ namespace WhiteSpace_removal
                 tbxIN.Text = String.Empty;
                 tbxOUT.Text = String.Empty;
                 lblFeedback.Content = "PrzemyDev 2023";
+                tbxIN.Focus();
             }
             catch (Exception ex)
             {
